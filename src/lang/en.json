@@ -1,0 +1,11 @@
+{
+    "m":{
+        "name":"Feedback"
+    },
+    "config":{
+        "header":"Financial Management Platform",
+        "menu":"Configuration service",
+        "item01":"Dimension configuration",
+        "item02":"Rule configuration"
+    }
+}
